@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "home_page_title": "Welcome User"
+  },
+  "AboutPage": {
+    "about_page_title": "Welcome Again"
+  },
+  "Cart":{
+    "cart_title":"Tera Cart"
+  }
+}
