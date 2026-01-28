@@ -22,6 +22,9 @@ let opts = {
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   ...opts,
+
+  output: 'standalone',
+  
   experimental: {
     webpackMemoryOptimizations: true,
     serverActions: {
